@@ -1,0 +1,10 @@
+--[[
+	Island Tribes DUPE blacklist
+]]
+
+
+return {
+	"Insert your HWID here.",
+	"Insert your HWID here.",
+	"Insert your HWID here.",
+}
