@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/whateverScripts/Islandtribes/main/new",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/whateverScripts/Islandtribes/main/newdupe",true))()
 
 --island tribes dupe script
 -- make sure to join discord.gg/87dGbU9t5W
